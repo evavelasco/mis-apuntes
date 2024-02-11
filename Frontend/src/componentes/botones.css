@@ -1,0 +1,48 @@
+.contenedor {
+  position: relative;
+}
+.fondo {
+  height: auto;
+  width: 100%;
+  z-index: 1;
+}
+.boton-html,
+.boton-css,
+.boton-javascript,
+.boton-react,
+.boton-java,
+.boton-github {
+  position: relative;
+  z-index: 4;
+}
+.boton-html {
+  top: 50px;
+  left: 100px;
+}
+.boton-css {
+  top: 50px;
+  left: 100px;
+}
+.boton-javascript {
+  top: 50px;
+  left: 100px;
+}
+.boton-react {
+  top: 50px;
+  left: 100px;
+}
+.boton-java {
+  top: 50px;
+  left: 100px;
+}
+.boton-github {
+  top: 50px;
+  left: 100px;
+}
+button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px;
+  border: black;
+  cursor: pointer;
+}
